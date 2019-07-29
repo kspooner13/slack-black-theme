@@ -807,9 +807,8 @@ a.file_download_link:hover {
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
     font-family: 'Larsseit-Bold','Larsseit','Lato', sans-serif !important;
-    color: #FFA500;
+    color: #FFA500 !important;
     border-left: 3px solid #ff5656;
-    border-right: 3px solid #ff5656;
     padding-left: 6px;
     height: 25px;
     overflow: hidden;
